@@ -1,0 +1,13 @@
+package learnJava;
+
+class FreshJuice_Enum {
+enum FreshJuiceSize{ SMALL, MEDIUM, LARGE }
+FreshJuiceSize size;
+}
+public class FreshJuiceTest_Enum {
+public static void main(String args[]){
+FreshJuiceTest_Enum juice = new FreshJuiceTest_Enum();
+juice.size = FreshJuiceTest_Enum.FreshJuiceSize.MEDIUM ;
+System.out.println("Size: " + juice.size);
+}
+}
