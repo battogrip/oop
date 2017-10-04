@@ -1,0 +1,18 @@
+Beautify code:
+CTL + SHF + F
+https://stackoverflow.com/questions/8046576/java-how-to-beautify-the-java-code-inside-eclipse-ide
+
+Code list:
+4. Java – Objects & Classes
+FreshJuice - Enum
+Puppy - create first object
+Employee - import java package
+EmployeeTest - creates two instances of the class Employee and invokes the methods for each object to assign values for each variable
+
+6. Java – Variable Types
+Employee2 - demo Instance Variables
+Employee3 - demo Class/static Variables
+
+
+What is Next?
+7. Java – Modifier Types
