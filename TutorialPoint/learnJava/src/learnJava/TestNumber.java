@@ -1,0 +1,33 @@
+package learnJava;
+
+/*
+public class TestNumber {
+	public static void main(String args[]) {
+		Integer x = 5; // boxes int to an Integer object
+		x = x + 10; // unboxes the Integer to a int
+		System.out.println(x);
+	}
+}
+
+
+public class TestNumber {
+	public static void main(String args[]) {
+		Integer x = 5;
+		// Returns byte primitive data type
+		System.out.println(x.byteValue());
+		// Returns double primitive data type
+		System.out.println(x.doubleValue());
+		// Returns long primitive data type
+		System.out.println(x.longValue());
+	}
+}
+
+*/
+public class TestNumber {
+public static void main(String args[]){
+Integer x = 5;
+System.out.println(x.compareTo(3));
+System.out.println(x.compareTo(5));
+System.out.println(x.compareTo(8));
+}
+}

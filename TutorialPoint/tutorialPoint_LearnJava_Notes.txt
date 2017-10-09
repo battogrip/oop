@@ -16,3 +16,12 @@ Employee3 - demo Class/static Variables
 
 What is Next?
 7. Java – Modifier Types
+
+8. Java – Basic Operators
+TestOperators
+
+
+11. Number class
+All the wrapper classes (Integer, Long, Byte, Double, Float, Short) are subclasses of the abstract class Number.
+
+TestNumber - 
